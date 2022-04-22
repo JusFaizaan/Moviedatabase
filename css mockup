@@ -1,0 +1,138 @@
+.navbar {
+    background: #5B5958;
+    height: 57px;
+    width: 1510px;
+    margin-left: 0px;
+    top: -20px
+}
+
+#logo {
+    width: 80px;
+    height: 50px;
+    border-radius: 5px;
+}
+
+#main {
+    border: 3px solid #000000;
+	padding: 1px;
+	width: 550px;
+	height: 350px;
+	float: left;
+	font-size: 17px;
+	text-align: left;
+}
+
+#img1 {
+    width: 250px;
+	height: 350px;
+	float: left;
+}
+
+#img2, #img3, #img4, #img5 {
+    width: 160px;
+	height: 240px;
+	float: left;
+
+}
+
+h3 {
+    color:yellow;
+    margin-right: 140px;
+}
+
+p {
+    /*color: white;*/
+    line-height: 0.9;
+}
+
+.sub1 {
+    line-height: 0.4;
+}
+
+#sub1 {
+    border: 3px solid #000000;
+	padding: 1px;
+	width: 160px;
+	height: 285px;
+	float: left;
+	margin-left: -557px;
+	margin-top: 320px;
+	font-size: 17px;
+	text-align: left;
+}
+
+#add {
+    float: right;
+    border-radius: 3px;
+}
+
+#sub2 {
+    border: 3px solid #000000;
+	padding: 1px;
+	width: 160px;
+	height: 285px;
+	float: left;
+	margin-left: -227px;
+	margin-top: 320px;
+	font-size: 17px;
+	text-align: left;
+}
+
+#sub3 {
+    border: 3px solid #000000;
+	padding: 1px;
+	width: 160px;
+	height: 285px;
+	float: left;
+	margin-left: 103px;
+	margin-top: 320px;
+	font-size: 17px;
+	text-align: left;
+}
+
+#sub4 {
+    border: 3px solid #000000;
+	padding: 1px;
+	width: 160px;
+	height: 285px;
+	float: left;
+	margin-left: 443px;
+	margin-top: 320px;
+	font-size: 17px;
+	text-align: left;
+}
+
+#sub5 {
+    border: 3px solid #000000;
+	padding: 1px;
+	width: 160px;
+	height: 285px;
+	float: left;
+	margin-left: 983px;
+	margin-top: -294px;
+	font-size: 17px;
+	text-align: left;
+}
+
+.register {
+    border: 3px solid #b5b1b1;
+	padding: 1px;
+	width: 230px;
+	height: 395px;
+    border-radius: 5px;
+    position: center;
+}
+
+#uname, #fname, #lname, #pw, #create {
+    margin-left: 40px;
+    width: 10em;
+} 
+
+#submit {
+    width: 10.6em;
+    margin-left: 40px;
+}
+
+#submit:hover {
+    background-color: yellow;
+}
